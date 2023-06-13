@@ -1,6 +1,12 @@
-.container{
-    width: 200px;
-    height: 200px;
-    margin: 500px auto;
-    background-color: aqua;
+.container {
+  width: 200px;
+  height: 200px;
+  margin: 500px auto;
+  background-color: aqua;
+}
+
+.title {
+  font-size: large;
+  color: bisque;
+  text-transform: uppercase;
 }
